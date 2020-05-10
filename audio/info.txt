@@ -1,0 +1,50 @@
+AUDIO1:
+swanLake,Op.20No.10-tchaikovsky
+tchaikovsky
+Despite popular success, his life was studded with events that led him to depression and a fatalistic vision of existence: in his youth the death of his mother, the sinking of interpersonal relationships and then the unacceptability for the society of the time [6 ] of his homosexuality contributed to this condition. Death is officially attributed to cholera, but its circumstances are debated; suicide was also hypothesized, by voluntary contagion with the disease or by other form of poisoning.
+
+AUDIO2:
+fourSeasons,Spring
+Antonio Vivaldi
+The Four Seasons is the best known of Vivaldi's works. Though three of the concerti are wholly original, the first, "Spring", borrows motifs from a sinfonia in the first act of Vivaldi's contemporaneous opera Il Giustino. The inspiration for the concertos is not the countryside around Mantua, as initially supposed, where Vivaldi was living at the time, since according to Karl Heller they could have been written as early as 1716–1717, while Vivaldi was engaged with the court of Mantua only in 1718. They were a revolution in musical conception: in them Vivaldi represented flowing creeks, singing birds (of different species, each specifically characterized), a shepherd and his barking dog, buzzing flies, storms, drunken dancers, hunting parties from both the hunters' and the prey's point of view, frozen landscapes, and warm winter fires.
+
+AUDIO3:
+fourSeasons,Summer
+Antonio Vivaldi
+The Four Seasons is the best known of Vivaldi's works. Though three of the concerti are wholly original, the first, "Spring", borrows motifs from a sinfonia in the first act of Vivaldi's contemporaneous opera Il Giustino. The inspiration for the concertos is not the countryside around Mantua, as initially supposed, where Vivaldi was living at the time, since according to Karl Heller they could have been written as early as 1716–1717, while Vivaldi was engaged with the court of Mantua only in 1718. They were a revolution in musical conception: in them Vivaldi represented flowing creeks, singing birds (of different species, each specifically characterized), a shepherd and his barking dog, buzzing flies, storms, drunken dancers, hunting parties from both the hunters' and the prey's point of view, frozen landscapes, and warm winter fires.
+
+AUDIO4:
+fourSeasons,Autumn
+Antonio Vivaldi
+The Four Seasons is the best known of Vivaldi's works. Though three of the concerti are wholly original, the first, "Spring", borrows motifs from a sinfonia in the first act of Vivaldi's contemporaneous opera Il Giustino. The inspiration for the concertos is not the countryside around Mantua, as initially supposed, where Vivaldi was living at the time, since according to Karl Heller they could have been written as early as 1716–1717, while Vivaldi was engaged with the court of Mantua only in 1718. They were a revolution in musical conception: in them Vivaldi represented flowing creeks, singing birds (of different species, each specifically characterized), a shepherd and his barking dog, buzzing flies, storms, drunken dancers, hunting parties from both the hunters' and the prey's point of view, frozen landscapes, and warm winter fires.
+
+AUDIO5:
+fourSeasons,Winter
+Antonio Vivaldi
+The Four Seasons is the best known of Vivaldi's works. Though three of the concerti are wholly original, the first, "Spring", borrows motifs from a sinfonia in the first act of Vivaldi's contemporaneous opera Il Giustino. The inspiration for the concertos is not the countryside around Mantua, as initially supposed, where Vivaldi was living at the time, since according to Karl Heller they could have been written as early as 1716–1717, while Vivaldi was engaged with the court of Mantua only in 1718. They were a revolution in musical conception: in them Vivaldi represented flowing creeks, singing birds (of different species, each specifically characterized), a shepherd and his barking dog, buzzing flies, storms, drunken dancers, hunting parties from both the hunters' and the prey's point of view, frozen landscapes, and warm winter fires.
+
+AUDIO6
+clairDeLune
+Claudio Debussy
+Suite bergamasque is one of the most famous piano suites by Claude Debussy. The third and most famous movement of Suite bergamasque is "Clair de lune", in D♭ major. Its name comes from Verlaine's poem "Clair de lune", the title of which means "moonlight" in French. 
+
+AUDIO7
+ Nocturne op.9No.2
+Chopin
+Chopin often performed this night with continuous new interventions on the embellishments that he taught the students. It is therefore not irrelevant that today we have at least fourteen variants of it.
+
+AUDIO8
+Symphony No.9, 3rd movement (Ode to joy)
+Ludwig Van Beethoven
+"Ode to Joy" is an ode written in the summer of 1785 by German poet, playwright, and historian Friedrich Schiller. It is best known for its use by Ludwig van Beethoven in the final (fourth) movement of his Ninth Symphony, completed in 1824. Beethoven's text is not based entirely on Schiller's poem, and introduces a few new sections. His tune (but not Schiller's words) was adopted as the "Anthem of Europe" by the Council of Europe in 1972 and subsequently by the European Union.
+
+
+AUDIO9
+Für Elise
+Ludwig Van Beethoven
+The identity of "Elise" has eluded historians and scholars for decades. The bagatelle wasn’t discovered and published until 40 years after Beethoven’s death, so he certainly wasn’t around to tell tales of the woman who had inspired the composition. Scholars believe “Elise” must have been pretty close to Beethoven, but no one has been able to definitively prove who she really was. 
+
+AUDIO10:
+MariageD'Amour
+Paul De Senneville
+Even this piece is written by Paul De Senneville, most people think it is written by Chopin. It is known with the pseudonym of Spring Waltz, even if it's really name is Mariage d'Amour.

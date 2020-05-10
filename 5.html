@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+</style>
+</head>
+<body>
+  <embed src="audio/audio1-5.mp3" loop="true" autostart="true" width="2"
+         height="0">
+
+<video autoplay muted loop id="myVideo">
+  <source src="videos/1-5.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+<div class="content">
+ <h1>Four Seasons, Winter</h1>
+  <p>Antonio Vivaldi</p>
+  <p>The Four Seasons is the best known of Vivaldi's works. Though three of the concerti are wholly original, the first, "Spring", borrows motifs from a sinfonia in the first act of Vivaldi's contemporaneous opera Il Giustino. The inspiration for the concertos is not the countryside around Mantua, as initially supposed, where Vivaldi was living at the time, since according to Karl Heller they could have been written as early as 1716–1717, while Vivaldi was engaged with the court of Mantua only in 1718. They were a revolution in musical conception: in them Vivaldi represented flowing creeks, singing birds (of different species, each specifically characterized), a shepherd and his barking dog, buzzing flies, storms, drunken dancers, hunting parties from both the hunters' and the prey's point of view, frozen landscapes, and warm winter fires.</p>
+</div>
+
+</body>
+</html>
